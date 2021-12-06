@@ -1,0 +1,2 @@
+#script1.ah
+echo "Starting shell script..";
